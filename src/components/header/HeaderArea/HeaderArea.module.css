@@ -1,0 +1,5 @@
+
+.menuBer{
+    display: flex;
+    flex-direction: row;
+}
