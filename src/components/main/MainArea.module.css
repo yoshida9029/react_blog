@@ -1,0 +1,35 @@
+.sec1{
+    display: grid;
+    grid-template-columns: 142px 142px 142px 142px 142px 142px 142px;
+    grid-template-rows: 102px 102px 102px 102px 102px 102px 102px;
+
+}
+
+.first{
+    width: 994px;
+    height: 612px;
+    padding: 16px;
+    margin: 86px 0 0 223px;
+    gap: 10px;
+    
+}
+
+.secLogo{
+    background-color: #CD3796;
+    width: 309px;
+    height: 22px;
+    padding: 10px;
+    grid-column: 5/7;
+    grid-row: 5/6;
+}
+
+.title{
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 12px;
+    gap: 10px;
+    font-size: 24px;
+    width: 994px;
+    margin: auto;
+}
