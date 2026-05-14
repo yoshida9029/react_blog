@@ -1,0 +1,10 @@
+.title{
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 12px;
+    gap: 10px;
+    font-size: 24px;
+    width: 994px;
+    margin: 80px auto;
+}

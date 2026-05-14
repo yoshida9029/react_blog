@@ -7,7 +7,7 @@ export default function HeaderArea(){
             className='logo'
             src="../images/bamos_logo/bamosDesignLogo_black.svg"
             alt="ロゴ"/>
-            <ul className={styles.menuBer}>
+            <ul className={styles.menuBar}>
                 <nav>MENU-01</nav>
                 <nav>MENU-02</nav>
                 <nav>MENU-03</nav>

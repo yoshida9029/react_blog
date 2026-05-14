@@ -1,0 +1,15 @@
+.bamosCardContainer{
+    display: grid;
+}
+
+.bamosCard{
+    
+}
+.bamosContent{
+    display: grid;
+    
+}
+
+.bamosImage{
+    border-radius: 6px;
+}

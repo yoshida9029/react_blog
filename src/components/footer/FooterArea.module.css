@@ -1,0 +1,11 @@
+.footer{
+    background-image: linear-gradient(#2d0000, #000000);
+    text-align: center;
+    width: 994px;
+    height: 50px;
+    margin: 0 auto;
+}
+.logoAccent{
+    padding: 16px;
+
+}
